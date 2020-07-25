@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of Software, Shandong University, and a joint PhD student of iLearn Lab, School of Computer Science and Technology, Shandong University (Tsingtao campus). 
+Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of Software, Shandong University, and a joint PhD student of [iLearn Lab](http://ilearn.qd.sdu.edu.cn/), School of Computer Science and Technology, Shandong University (Tsingtao campus). 
 
 Her research interests are fashion analysis and social media analysis. 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](http://ilearn.qd.sdu.edu.cn/).
 
 There should be whitespace between paragraphs.
 
