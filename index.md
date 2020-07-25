@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Hello, this is Xue Dong (董雪). She is a postgraduate student of iLearn Lab, School of Computer Science and Technology, Shandong University (Tsingtao campus). Her research interests are fashion analysis and social media analysis. 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
