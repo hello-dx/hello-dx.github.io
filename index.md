@@ -8,7 +8,7 @@ layout: default
 
 ### Introduction
 
-Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of Software, Shandong University, and a joint PhD student of [iLearn Lab](http://ilearn.qd.sdu.edu.cn/), School of Computer Science and Technology, Shandong University (Tsingtao campus). Her research interests are fashion analysis and social media analysis. 
+Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of Software, Shandong University, and a joint PhD student of [iLearn Lab](http://ilearn.qd.sdu.edu.cn/), School of Computer Science and Technology, Shandong University (Tsingtao campus). She will graduate in 2023. Her research interests contain fashion analysis and compatibility modeling. 
 
 ### Publication
 
