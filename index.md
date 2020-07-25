@@ -19,3 +19,9 @@ Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of 
 2019
 
 >**Xue Dong**, Xuemeng Song, Fuli Feng, Peiguang Jing, Xin-Shun Xu, Liqiang Nie: Personalized Capsule Wardrobe Creation with Garment and User Modeling. ACM Multimedia 2019: 302-310. [[Paper]](./assets/paper/PersonalizedCapsuleWardrobeCreationwithGarmentandUserModeling.pdf)[[Project Page]](https://dxresearch.wixsite.com/pcw-dc)
+
+### Award
+
+2019 First Prize Academic Scholarship
+
+2019 Excellent Student Scholarship
