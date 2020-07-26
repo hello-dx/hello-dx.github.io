@@ -22,6 +22,6 @@ Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of 
 
 ### Award
 
-2019 First Prize Academic Scholarship
+2019 First Prize Academic Scholarship, SDU
 
-2019 Excellent Student Scholarship
+2018 Excellent Student Scholarship, SDU
