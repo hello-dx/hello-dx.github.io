@@ -14,7 +14,7 @@ Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of 
 
 2020
 
->**Xue Dong**, Jianlong Wu, Xuemeng Song, Hongjun Dai, Liqiang Nie: Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme. SIGIR 2020: . [[Paper]](./assets/paper/FashionCompatibilityModelingthroughaMulti-modalTry-on-guidedScheme.pdf)[[Project Page]](https://dxresearch.wixsite.com/tryon-cm)[[Code]](https://drive.google.com/open?id=1nL4CuyEvafEx8hbpGVj0v81C1fETZjR0)[[Data]](https://drive.google.com/open?id=1-0wG_NXEEWMFe1JqOG2nGx3uQJDiVInS)
+>**Xue Dong**, Jianlong Wu, Xuemeng Song, Hongjun Dai, Liqiang Nie: Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme. SIGIR 2020: 771–780. [[Paper]](./assets/paper/FashionCompatibilityModelingthroughaMulti-modalTry-on-guidedScheme.pdf)[[Project Page]](https://dxresearch.wixsite.com/tryon-cm)[[Code]](https://drive.google.com/open?id=1nL4CuyEvafEx8hbpGVj0v81C1fETZjR0)[[Data]](https://drive.google.com/open?id=1-0wG_NXEEWMFe1JqOG2nGx3uQJDiVInS)
 
 2019
 
