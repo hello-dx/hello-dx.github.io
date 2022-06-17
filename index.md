@@ -15,7 +15,7 @@ Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of 
 >**Xue Dong**, Xuemeng Song, Na Zheng, Jianlong Wu, Hongjun Dai, Liqiang Nie: TryonCM2: Try-on-Enhanced Fashion Compatibility Modeling Framework. IEEE Transactions on Neural Networks and Learning Systems 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9775146).
 
 2021
->Na Zheng, Xuemeng Song, Qingying Niu, **Xue Dong**, Yibing Zhan, Liqiang Nie: Collocation and Try-on Network: Whether an outfit is Compatible. ACM Multimedia 2021: xx–xx.
+>Na Zheng, Xuemeng Song, Qingying Niu, **Xue Dong**, Yibing Zhan, Liqiang Nie: Collocation and Try-on Network: Whether an outfit is Compatible. ACM Multimedia 2021: 309-317.
 
 2020
 >**Xue Dong**, Jianlong Wu, Xuemeng Song, Hongjun Dai, Liqiang Nie: Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme. SIGIR 2020: 771–780. [[Paper]](./assets/paper/FashionCompatibilityModelingthroughaMulti-modalTry-on-guidedScheme.pdf)[[Project Page]](https://dxresearch.wixsite.com/tryon-cm)[[Code]](https://drive.google.com/open?id=1nL4CuyEvafEx8hbpGVj0v81C1fETZjR0)[[Data]](https://drive.google.com/open?id=1-0wG_NXEEWMFe1JqOG2nGx3uQJDiVInS)
