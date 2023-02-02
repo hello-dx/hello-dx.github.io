@@ -35,4 +35,6 @@ Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of 
 
 ### Public Role
 
+Reviewer of Transactions on Knowledge and Data Engineering.
+
 Reviewer of International Conference on Pattern Recognition 2020 (ICPR 2020).
