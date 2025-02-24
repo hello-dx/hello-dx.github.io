@@ -8,12 +8,21 @@ layout: default
 
 ### Introduction
 
-Hello, this is Xue Dong (董雪). She is currently a PhD candidate of School of Software, Shandong University. She will graduate in 2023. She has published several papers in the top venues. Her research interests contain multimedia computing, retrieval and recommendation.
+Hello, this is Xue Dong (董雪). She is currently a research fellow with the School of Software, Tsinghua University, China. She received the Ph.D. degree from the School of Software, Shandong University, in 2023. Her research interests contain multimedia computing, multimodal recommendation and multimodal prompt tuning. She has published several papers in the top venues, such as ACM SIGIR, MM, TOIS, IEEE TNNLS and Information Fusion.
 
 ### Publication
-2022
+2025
+Muhe Ding, Jianlong Wu, **Xue Dong**, Xiaojie Li, Pengda Qin, Tian Gan: Preview-based Category Contrastive Learning for Knowledge Distillation. [[Paper]](https://ieeexplore.ieee.org/document/10880570).
+
+2024
+**Xue Dong**, Xuemeng Song, Minghui Tian, Linmei Hu: Prompt-based and weak-modality enhanced multimodal recommendation. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003056).
+
+2023
+Yuan Zhang, **Xue Dong**, Weijie Ding, Biao Li, Peng Jiang, Kun Gai: Divide and Conquer: Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective. [[Paper]](https://dl.acm.org/doi/10.1145/3543873.3584629).
+
 >**Xue Dong**, Xuemeng Song, Na Zheng, Yinwei Wei, Zhongzhou Zhao: Dual Preference Distribution Learning for Item Recommendation. ACM Transactions on Information Systems. [[Paper]](https://dl.acm.org/doi/10.1145/3565798).
 
+2022
 >**Xue Dong**, Xuemeng Song, Na Zheng, Jianlong Wu, Hongjun Dai, Liqiang Nie: TryonCM2: Try-on-Enhanced Fashion Compatibility Modeling Framework. IEEE Transactions on Neural Networks and Learning Systems. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9775146).
 
 2021
