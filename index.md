@@ -13,8 +13,10 @@ Hello, this is Xue Dong (董雪). She is currently a research fellow with the Sc
 ### Publication
 2025
 >**Xue Dong**, Xuemeng Song, Tongliang Liu, Weili Guan: Prompt-Based Multi-Interest Learning Method for Sequential Recommendation. IEEE TPAMI, 47(8): 6876-6887 (2025). [[Paper](https://ieeexplore.ieee.org/document/10974641)][[Code](https://github.com/hello-dx/PoMRec)].
->Na Zheng, Xuemeng Song, Xue Dong, Aashish Nikhil Ghosh, Liqiang Nie, Roger Zimmermann:
+
+>Na Zheng, Xuemeng Song, **Xue Dong**, Aashish Nikhil Ghosh, Liqiang Nie, Roger Zimmermann:
 Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning. CVPR 2025: 25708-25717.
+
 >Muhe Ding, Jianlong Wu, **Xue Dong**, Xiaojie Li, Pengda Qin, Tian Gan, Liqiang Nie: Preview-Based Category Contrastive Learning for Knowledge Distillation. IEEE TCSVT, 35(7): 6712-6725 (2025).
 
 2024
@@ -32,10 +34,10 @@ Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Superv
 >Na Zheng, Xuemeng Song, Qingying Niu, **Xue Dong**, Yibing Zhan, Liqiang Nie: Collocation and Try-on Network: Whether an outfit is Compatible. ACM Multimedia: 309-317. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475691).
 
 2020
->**Xue Dong**, Jianlong Wu, Xuemeng Song, Hongjun Dai, Liqiang Nie: Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme. ACM SIGIR: 771–780. [[Paper]](./assets/paper/FashionCompatibilityModelingthroughaMulti-modalTry-on-guidedScheme.pdf)[[Project Page]](https://dxresearch.wixsite.com/tryon-cm)[[Code]](https://drive.google.com/open?id=1nL4CuyEvafEx8hbpGVj0v81C1fETZjR0)[[Data]](https://drive.google.com/open?id=1-0wG_NXEEWMFe1JqOG2nGx3uQJDiVInS)
+>**Xue Dong**, Jianlong Wu, Xuemeng Song, Hongjun Dai, Liqiang Nie: Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme. ACM SIGIR: 771–780. [[Paper]](./assets/paper/FashionCompatibilityModelingthroughaMulti-modalTry-on-guidedScheme.pdf).
 
 2019
->**Xue Dong**, Xuemeng Song, Fuli Feng, Peiguang Jing, Xin-Shun Xu, Liqiang Nie: Personalized Capsule Wardrobe Creation with Garment and User Modeling. ACM Multimedia: 302-310. [[Paper]](./assets/paper/PersonalizedCapsuleWardrobeCreationwithGarmentandUserModeling.pdf)[[Project Page]](https://dxresearch.wixsite.com/pcw-dc)[[Code]](https://drive.google.com/open?id=133rsjW8QoDJKw75zJ5US0od488DXq4y_)[[Data]](https://drive.google.com/open?id=1EKeI7elZVGdtAX8bLbYjG-W55-9IA2rN)
+>**Xue Dong**, Xuemeng Song, Fuli Feng, Peiguang Jing, Xin-Shun Xu, Liqiang Nie: Personalized Capsule Wardrobe Creation with Garment and User Modeling. ACM Multimedia: 302-310. [[Paper]](./assets/paper/PersonalizedCapsuleWardrobeCreationwithGarmentandUserModeling.pdf).
 
 ### Projects
 
