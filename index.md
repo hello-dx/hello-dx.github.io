@@ -12,7 +12,10 @@ Hello, this is Xue Dong (董雪). She is currently a research fellow with the Sc
 
 ### Publication
 2025
->Muhe Ding, Jianlong Wu, **Xue Dong**, Xiaojie Li, Pengda Qin, Tian Gan: Preview-based Category Contrastive Learning for Knowledge Distillation. [[Paper]](https://ieeexplore.ieee.org/document/10880570).
+>**Xue Dong**, Xuemeng Song, Tongliang Liu, Weili Guan: Prompt-Based Multi-Interest Learning Method for Sequential Recommendation. IEEE TPAMI, 47(8): 6876-6887 (2025). [[Paper](https://ieeexplore.ieee.org/document/10974641)][[Code](https://github.com/hello-dx/PoMRec)].
+>Na Zheng, Xuemeng Song, Xue Dong, Aashish Nikhil Ghosh, Liqiang Nie, Roger Zimmermann:
+Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning. CVPR 2025: 25708-25717.
+>Muhe Ding, Jianlong Wu, **Xue Dong**, Xiaojie Li, Pengda Qin, Tian Gan, Liqiang Nie: Preview-Based Category Contrastive Learning for Knowledge Distillation. IEEE TCSVT, 35(7): 6712-6725 (2025).
 
 2024
 >**Xue Dong**, Xuemeng Song, Minghui Tian, Linmei Hu: Prompt-based and weak-modality enhanced multimodal recommendation. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003056)[[Code]](https://github.com/hello-dx/POWERec).
